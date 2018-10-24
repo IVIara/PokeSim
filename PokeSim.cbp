@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="PokeSim" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/PokeSim" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="../PokeSim" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/PokeSim" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="../PokeSim" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="Capacite.cpp" />
+		<Unit filename="Capacite.h" />
+		<Unit filename="Combat.cpp" />
+		<Unit filename="Combat.h" />
+		<Unit filename="Dresseur.cpp" />
+		<Unit filename="Dresseur.h" />
+		<Unit filename="Inventaire.cpp" />
+		<Unit filename="Inventaire.h" />
+		<Unit filename="Objet.cpp" />
+		<Unit filename="Objet.h" />
+		<Unit filename="Pokemon.cpp" />
+		<Unit filename="Pokemon.h" />
+		<Unit filename="Type.cpp" />
+		<Unit filename="Type.h" />
+		<Unit filename="main.cpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

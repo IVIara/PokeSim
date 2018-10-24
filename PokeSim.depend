@@ -1,0 +1,95 @@
+# depslib dependency file v1.0
+1539492689 source:c:\users\tperria\documents\c++\pokesim\capacite.cpp
+	"Capacite.h"
+	<iostream>
+	<string>
+
+1539489588 c:\users\tperria\documents\c++\pokesim\capacite.h
+	<string>
+	"Type.h"
+
+1540082640 source:c:\users\tperria\documents\c++\pokesim\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	"Pokemon.h"
+	"Capacite.h"
+	"Objet.h"
+	"Combat.h"
+	"Inventaire.h"
+	"Dresseur.h"
+
+1540083894 c:\users\tperria\documents\c++\pokesim\pokemon.h
+	"Inventaire.h"
+	"Capacite.h"
+	"Type.h"
+	<string>
+	<vector>
+
+1539106318 c:\users\tperria\documents\c++\pokesim\objet.h
+	<string>
+
+1540086045 c:\users\tperria\documents\c++\pokesim\combat.h
+	"Dresseur.h"
+
+1539159208 source:c:\users\tperria\documents\c++\pokesim\objet.cpp
+	"Objet.h"
+	<iostream>
+	<string>
+
+1540083698 source:c:\users\tperria\documents\c++\pokesim\pokemon.cpp
+	"Pokemon.h"
+	"Type.h"
+	<math.h>
+	<iostream>
+	<vector>
+	<fstream>
+
+1540082982 source:c:\users\tperria\documents\c++\pokesim\combat.cpp
+	"Combat.h"
+	"Pokemon.h"
+	<iostream>
+	<string>
+
+1539106998 source:c:\users\tperria\documents\c++\pokesim\inventaire.cpp
+	"Inventaire.h"
+	"Objet.h"
+	<iostream>
+	<string>
+	<vector>
+
+1539106966 c:\users\tperria\documents\c++\pokesim\inventaire.h
+	"Objet.h"
+	<iostream>
+	<vector>
+
+1539104380 c:\users\tperria\documents\c++\pokesim\type.h
+	<string>
+	<iostream>
+
+1539141426 source:c:\users\tperria\documents\c++\pokesim\type.cpp
+	"Type.h"
+	<iostream>
+	<string>
+
+1540077365 source:c:\users\tperria\documents\c++\pokesim\src\desseur.cpp
+	"Desseur.h"
+
+1540077611 c:\users\tperria\documents\c++\pokesim\include\desseur.h
+	<string>
+	"Inventaire.h"
+
+1540083313 source:c:\users\tperria\documents\c++\pokesim\dresseur.cpp
+	"Dresseur.h"
+	"Pokemon.h"
+	<math.h>
+	<iostream>
+	<vector>
+	<fstream>
+
+1540082578 c:\users\tperria\documents\c++\pokesim\dresseur.h
+	<string>
+	<vector>
+	"Inventaire.h"
+	"Pokemon.h"
+

@@ -1,0 +1,165 @@
+"Abime",sol,physique,OHKO,0*,5
+"Acidarmure",poison,statut,0,0,20*
+"Acide",poison,physique,40,100,30
+"Affutage",normal,statut,0,0,30
+"Amnesie",psy,statut,0,0,20
+"Armure",normal,statut,0,0,30
+"Balayage",combat,physique,0*,100*,20
+"Bec Vrille",vol,physique,80,100,20
+"Belier",normal,physique,90,85,20
+"Berceuse",normal,statut,0,55,15
+"Blizzard",glace,special,110*,70*,5
+"Bomb'OEuf",normal,physique,100,75,10
+"Bouclier",psy,statut,0,0,20*
+"Boul'Armure",normal,statut,0,0,40
+"Brouillard",normal,statut,0,100,20
+"Brume",glace,statut,0,0,30
+"Buee Noire",glace,statut,0,0,30
+"Bulles d'O",eau,special,65,100,20
+"Cage-eclair",electrik,statut,0,100,20
+"Cascade",eau,special,80,100,15
+"Charge",normal,physique,50*,100*,30
+"Choc Mental",psy,special,50,100,25
+"Claquoir",eau,special,35,85*,15*
+"Clonage",normal,statut,0,0,10
+"Combo-Griffe",normal,physique,18,80,15
+"Constriction",normal,physique,10,100,35
+"Conversion"*,normal,statut,0,0,30
+"Copie",normal,statut,0,100,10
+"Coud'Krane",normal,physique,130*,100,10*
+"Coup d'Boule",normal,physique,70,100,15
+"Coupe",normal,physique,50,95,30
+"Coupe-Vent",normal,physique,80,100*,10
+"Croc de Mort",normal,physique,80,90,15
+"Croc Fatal",normal,physique,0,90,10
+"Croissance",normal,statut,0,0,20*
+"Cru-Aile",vol,physique,60*,100,35
+"Cyclone",normal,statut,0,100*,20
+"Damocles",normal,physique,120*,100,15
+"Danse Flamme"*,feu,special,35*,85*,15
+"Danse-Fleur",plante,special,120*,100,10*
+"Danse-Lames",normal,statut,0,0,20*
+"Dard-Nuee",insecte,physique,25*,95*,20
+"Dard-Venin",poison,physique,15,100,35
+"Deflagration",feu,special,110*,85,5
+"Destruction",normal,physique,200*,100,5
+"Detritus",poison,physique,65,100,20
+"Devorevee psy",special,100,100,15
+"Double-Dard",insecte,physique,25,100,20
+"Double-Pied",combat,physique,30*,100,30
+"Draco-Rage",dragon,special,0*,100,10
+"eboulement",roche,physique,75,90,10
+"E-Coque",normal,statut,0,100,10
+"Eclair",electrik,special,40,100,30
+"Ecrasement",normal,physique,65,100,20
+"Ecras'Face",normal,physique,40,100,35
+"Ecume",eau,special,40*,100,30
+"Empal'Korne",normal,physique,OHKO,0,5
+"Entrave",normal,statut,0,100*,20
+"etreinte",normal,physique,15,85*,20
+"Explosion",normal,physique,250*,100,5
+"Fatal-Foudre",electrik,special,110*,70,10
+"Flammeche",feu,special,40,100,25
+"Flash",normal,statut,0,100*,20
+"Force",normal,physique,80,100,15
+"Force Poigne",normal,physique,55,100,30
+"Fouet Lianes",plante,special,45*,100,25*
+"Frappe Atlas",combat,physique,0,100,20
+"Frenesie",normal,physique,20*,100,20
+"Furie",normal,physique,15,85,20
+"Gaz Toxik",poison,statut,0,90*,40
+"Griffe",normal,physique,40,100,35
+"Grincement",normal,statut,0,85,40
+"Grobisou",normal,statut,0,75,10
+"Groz'Yeux",normal,statut,0,100,30
+"Guillotine",normal,physique,OHKO,0,5
+"Hate",psy,statut,0,0,30
+"Hurlement",normal,statut,0,100,20
+"Hydrocanon",eau,special,110*,80,5
+"Hypnose",psy,statut,0,60*,20
+"Jackpot",normal,physique,40,100,20
+"Jet de Sable",normal,statut,0,100,15
+"Jet-Pierres",roche,physique,50,90*,15
+"Koud'Korne",normal,physique,65,100,25
+"Lance-Flammes",feu,special,90*,100,15
+"Lance-Soleil",plante,special,120,100,10
+"Laser Glace",glace,special,90*,100,10
+"Lechouille",spectre,physique,30*,100,30
+"Ligotage",normal,physique,15,90*,20
+"Lilliput",normal,statut,0,0,10*
+"Lutte",normal,physique,50,100,0
+"Mania",normal,physique,120*,100,10*
+"Massd'Os",sol,physique,65,85,20
+"Mawashi Geri",combat,physique,60,85,15
+"Mega-Sangsue",plante,special,40,100,15*
+"Meteores",normal,physique,60,0,20
+"Metronome",normal,statut,0,0,10
+"Mimi-Queue",normal,statut,0,100,30
+"Mimique",vol,statut,0,0,20
+"Morphing",normal,statut,0,0,10
+"Morsure",normal,special,60,100,25
+"Mur Lumiere",psy,statut,0,0,30
+"Tenebres",spectre,physique,0*,100,15
+"Onde Boreale",glace,special,65,100,20
+"Onde Folie",spectre,statut,0,100,10
+"Osmerang",sol,physique,50*,90,10
+"Para-Spore",plante,statut,0,75,30
+"Patience",normal,physique,0,100,10
+"Picanon",normal,physique,20,100,15
+"Picpic",vol,physique,35,100,35
+"Pied Saute",combat,physique,100*,95,10*
+"Pied Voltige",combat,physique,130*,90,10*
+"Pilonnage",normal,physique,15,85,20
+"Pince-Masse",eau,special,100*,90*,10
+"Pique",vol,physique,140,90,5
+"Pistolet a O",eau,special,40,100,25
+"Plaquage",normal,physique,85,100,15
+"Poing Comete",normal,physique,18,85,15
+"Poing de Feu",feu,special,75,100,15
+"Poing-eclair",electrik,special,75,100,15
+"Poing-Glace",glace,special,75,100,15
+"Poing-Karate",normal,physique,50,100,25
+"Poudre Dodo",plante,statut,0,75,15
+"Poudre Toxik",poison,statut,0,75,35
+"Protection",psy,statut,0,0,20
+"Psyko",psy,special,90,100,10
+"Puissance",normal,statut,0,0,30
+"Puredpois",poison,physique,30*,70,20
+"Rafale Psy",psy,special,65,100,20
+"Reflet",normal,statut,0,0,15
+"Intimidation",normal,statut,0,100*,30
+"Repli",eau,statut,0,0,40
+"Repos",psy,statut,0,0,10
+"Riposte",combat,physique,0,100,20
+"Rugissement",normal,statut,0,100,40
+"Sacrifice",combat,physique,80,80,25
+"Secretion",insecte,statut,0,95,40
+"Seisme",sol,physique,100,100,10
+"Soin",normal,statut,0,0,10*
+"Sonicboom",normal,physique,20*,90,20
+"Souplesse",normal,physique,80,75,20
+"Spore",plante,statut,0,100,15
+"Surf",eau,special,90*,100,15
+"Telekinesie",psy,statut,0,80,15
+"Teleport",psy,statut,0,0,20
+"Tonnerre",electrik,special,90*,100,15
+"Torgnoles",normal,physique,15,85,10
+"Tornade",normal,physique,40,100,35
+"Toxik",poison,statut,0,90*,10
+"Tranche",normal,physique,70,100,20
+"Tranch'Herbe",plante,special,55,95,25
+"Trempette",normal,statut,0,0,40
+"Triplattaque",normal,physique,80,100,10
+"Tunnel",sol,physique,80*,100,10
+"Ultimapoing",normal,physique,80,85,20
+"Ultimawashi",normal,physique,120,75,5
+"Ultralaser",normal,physique,150,90,5
+"Ultrason",normal,statut,0,55,20
+"Uppercut",normal,physique,70,100,10
+"Vague Psy",psy,special,0*,100*,15
+"Vampigraine",plante,statut,0,90,10
+"Vampirisme",insecte,physique,80*,100,15
+"Vive-Attaque",normal,physique,40,100,30
+"Vol",vol,physique,90*,95,15
+"Vol-Vie",plante,special,20,100,25*
+"Yoga",psy,statut,0,0,40
